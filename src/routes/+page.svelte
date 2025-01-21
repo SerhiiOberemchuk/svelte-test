@@ -11,5 +11,5 @@
 	<p>
 		Visit <a href="https://svelte.dev/docs/kit">svelte.dev/docs/kit</a> to read the documentation
 	</p>
-	<a href="/about">boute page</a>
+	<a href="/about">Aboute page</a>
 </div>
